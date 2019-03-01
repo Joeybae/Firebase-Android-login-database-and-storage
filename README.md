@@ -16,7 +16,7 @@ Before Start
 5. Go to your project in Firebase -> Click 'authentication' -> Click 'providers' and activate Google login
 6. Go to database(realtime database) -> Click 'rules' -> Change like this (".read": "true", ".write": "true") -> Save
 7. Go to storage -> Click 'rules' -> Change like this (allow read, write: if request.auth != null;) -> Save
-tip) When you upload post in this app, You should select image if not upload image it will make error!
+8. tip) When you upload post in this app, You should select image if not upload image it will make error!
 
 Contact Information
 --------------------
