@@ -4,8 +4,8 @@ Google Login, Database, Storage
 
 Version
 --------
-Android studio build:gradle:3.3.1
-\n firebase-core:16.0.7; firebase-auth:16.1.0'; firebase-database:16.0.6'; firebase-storage:16.0.5'
+1. Android studio build:gradle:3.3.1
+2. firebase-core:16.0.7; firebase-auth:16.1.0'; firebase-database:16.0.6'; firebase-storage:16.0.5'
 
 Before Start
 ------------
