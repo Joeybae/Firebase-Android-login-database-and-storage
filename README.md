@@ -18,6 +18,10 @@ Before Start
 7. Go to storage -> Click 'rules' -> Change like this (allow read, write: if request.auth != null;) -> Save
 tip) When you upload post in this app, You should select image if not upload image it will make error!
 
+Contact Information
+--------------------
+If you guys have a question Contact me to rhkdgks48@gmail.com
+
 Screenshots
 -----------
 
